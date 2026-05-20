@@ -81,7 +81,7 @@ ggplot(selected_countries, aes(year, life_expectancy, color = `Country Name`)) +
 ```
 
 
-quarto::quarto_render("analysis.qmd")
+
 
 
 
